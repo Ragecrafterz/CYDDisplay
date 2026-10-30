@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PlatformIO
+.pio/
+firmware/.pio/
+
+# Built firmware (attach to a GitHub release instead)
+dist/
+
+# Flash dumps of whatever was on your board before. Not ours to share.
+backup/
